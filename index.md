@@ -4,4 +4,4 @@ This is my [Progress Journal website](https://bu-ie-48b.github.io/fall21-ahmetta
 
 ## Homework 1
 
-In [this](homeworks/hw1.html) homework, I manipulated and visualized a multivariate time series data gathered from an accelerometer that records data for gesture recognition.
+In [this](.git/homeworks/hw1.html) homework, I manipulated and visualized a multivariate time series data gathered from an accelerometer that records data for gesture recognition.
