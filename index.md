@@ -9,3 +9,7 @@ In [this](hw1.html) homework, I manipulated and visualized a multivariate time s
 ## Homework 2
 
 In [this](hw2.html) homework, I manipulated the training set of CBF data, applied 1D Fused Lasso and regression tree representation techniques as well as 1-NN classification method.
+
+## Homework 3
+
+In [this](hw3.html) homework, I chose 5 datasets, applied 2 different representation methods and calculated their distances based on 4 different methods to test their accuracies using K-NN Classification Method with cross-validation.
